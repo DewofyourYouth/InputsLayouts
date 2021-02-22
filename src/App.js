@@ -15,7 +15,7 @@ export default function App() {
               <Link to="/">Home</Link>
             </li>
             <li>
-              <Link to="/random">Random Report</Link>
+              <Link to="/random">ASCII Report</Link>
             </li>
             <li>
               <Link to="/list">LowerCaseList</Link>
