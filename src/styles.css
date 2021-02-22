@@ -1,0 +1,53 @@
+.App {
+  font-family: sans-serif;
+  padding: 15px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  text-decoration: none;
+  display: inline-block;
+  margin: 0 8px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.title-text {
+  color: gray;
+  font-weight: 900;
+  font-family: "Roboto Slab", serif;
+}
+
+header {
+  text-align: center;
+  border-bottom: solid 4px tomato;
+  margin-bottom: 20px;
+}
+
+#report {
+  border: dashed 5px goldenrod;
+  border-radius: 20px;
+  margin: 10px;
+  padding: 20px 10px;
+  min-height: 70vh;
+}
+
+#pet-inputs {
+  border: double 2px goldenrod;
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+}
+
+#pet-inputs h3 {
+  font-family: "Roboto Slab", serif;
+  color: goldenrod;
+  border-bottom: double 3px goldenrod;
+}
+
+small {
+  font-size: 0.7rem;
+}
